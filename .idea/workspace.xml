@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e4bfa81-6f25-4372-8b95-882c4e2240ef" name="Changes" comment="Testing Complete">
+      <change beforePath="$PROJECT_DIR$/src/assignment3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment3/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7d10d344-911c-48b9-bc79-8af61c4e0508" />
+        <option name="url" value="https://github.com/EE422C/sp-23-assignment-3-sp23-pair-4.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LT2CZ3qR37zyj4iKXAVCePtyRD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/safin/Downloads/pMap_code&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\safin\JetBrains\sp-23-assignment-3-sp23-pair-4\src\assignment3" />
+      <recent name="C:\Users\safin\JetBrains\sp-23-assignment-3-sp23-pair-4\src" />
+      <recent name="C:\Users\safin\JetBrains\sp-23-assignment-3-sp23-pair-4" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e4bfa81-6f25-4372-8b95-882c4e2240ef" name="Changes" comment="" />
+      <created>1675880625054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675880625054</updated>
+      <workItem from="1675887856604" duration="2973000" />
+      <workItem from="1675897874824" duration="2923000" />
+      <workItem from="1675916307294" duration="412000" />
+      <workItem from="1675960783852" duration="689000" />
+      <workItem from="1676006408383" duration="335000" />
+      <workItem from="1676058710321" duration="1349000" />
+      <workItem from="1676064307558" duration="2645000" />
+      <workItem from="1676229842380" duration="594000" />
+      <workItem from="1676307165373" duration="433000" />
+      <workItem from="1676320574949" duration="298000" />
+      <workItem from="1676330232422" duration="337000" />
+      <workItem from="1676392119256" duration="608000" />
+      <workItem from="1676407878517" duration="3658000" />
+      <workItem from="1676415835247" duration="4559000" />
+      <workItem from="1676424437448" duration="1519000" />
+      <workItem from="1676480582557" duration="10502000" />
+      <workItem from="1676511061665" duration="8257000" />
+      <workItem from="1676572111110" duration="12075000" />
+      <workItem from="1676588368052" duration="1381000" />
+      <workItem from="1676658471505" duration="1532000" />
+      <workItem from="1676754931413" duration="305000" />
+      <workItem from="1676755299736" duration="3537000" />
+      <workItem from="1676759417433" duration="3298000" />
+      <workItem from="1676765097579" duration="5431000" />
+    </task>
+    <task id="LOCAL-00001" summary="Recitation git practice">
+      <created>1675881406245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675881406245</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Basic i/o">
+      <created>1676412217710</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676412217710</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Basic i/o">
+      <created>1676412369997</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676412369997</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Basic i/o">
+      <created>1676420821105</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676420821105</updated>
+    </task>
+    <task id="LOCAL-00005" summary="some BFS progress, errors">
+      <created>1676516138838</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676516138838</updated>
+    </task>
+    <task id="LOCAL-00006" summary="some BFS progress, errors">
+      <created>1676573791219</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676573791219</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Reaches end, error in tracking">
+      <created>1676575521893</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676575521893</updated>
+    </task>
+    <task id="LOCAL-00008" summary="bfs complete">
+      <created>1676701604058</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676701604058</updated>
+    </task>
+    <task id="LOCAL-00009" summary="dfs, stack overflow">
+      <created>1676760311513</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676760311513</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Testing">
+      <created>1676761913974</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676761913974</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Testing Complete">
+      <created>1676850604089</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676850604089</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="ede1d871-39be-48c1-a859-5d8aaa18c04c">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Recitation git practice" />
+    <MESSAGE value="Basic i/o" />
+    <MESSAGE value="some BFS progress, errors" />
+    <MESSAGE value="Reaches end, error in tracking" />
+    <MESSAGE value="bfs complete" />
+    <MESSAGE value="dfs, stack overflow" />
+    <MESSAGE value="Testing" />
+    <MESSAGE value="Testing Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing Complete" />
+  </component>
+</project>
